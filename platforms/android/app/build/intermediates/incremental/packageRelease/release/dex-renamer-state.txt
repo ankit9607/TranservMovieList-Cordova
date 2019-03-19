@@ -1,0 +1,4 @@
+#Tue Mar 19 20:51:16 IST 2019
+base.0=/home/ankit9607/MyDrive/MyLearning/MyDevelopment/Cordova/TranservMovieList/platforms/android/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
